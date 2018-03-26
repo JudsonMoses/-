@@ -1,8 +1,8 @@
-# C89Cooker
+# 菜大师 烹饪助手
 
-# Info
+# 简介
 
-- This is a good app teach you to cook dilicious chinese food
-- You can learn it step by step
-- And  MOST IMPORTANT it's all free!
-- If you find any bug or have any advice please let me know at hpf95p@yeah.net
+- 你可以在应用里学习到各种菜肴的制作方法
+- 每种菜肴都有详细的步骤
+- 最重要的是这是免费的！
+- 如果有什么建议或意见欢迎投稿至我的邮箱 hpf95p@yeah.net
